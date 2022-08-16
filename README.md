@@ -1,5 +1,6 @@
-
+<div align="center">
 <img align="center" src="https://github.com/Everblush/assets/blob/main/logo.png" style="height: 200px; width: 200px;" alt="logo"> 
+</div> 
 
 <h2 align="center"> Everblush Sublime Text Theme</h2>
 
