@@ -81,7 +81,7 @@
         {
             "name": "Number",
             "scope": "constant.numeric",
-            "foreground": "var(foreground)"
+            "foreground": "var(white)"
         },
         {
             "name": "Built-in constant",
